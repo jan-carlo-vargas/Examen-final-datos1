@@ -1,7 +1,7 @@
 # SalidaSegura
 
 **Proyecto de examen:** Examen 2 – Algoritmos y Estructuras de Datos I (CE1103), sistema de emergencia universitaria «SalidaSegura».
-**Autores:** Fran
+**Autores:** Fran, @franramidel
 
 ## 1. Requisitos originales (texto íntegro, sin ediciones)
 

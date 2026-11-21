@@ -1,6 +1,6 @@
 # Registro de prompts
 
-- Integrantes: Fran
+- Integrantes: Fran, @franramidel
 - Herramienta(s) de IA utilizada(s): Sonnet 5.5
 
 ## Prompt 1
