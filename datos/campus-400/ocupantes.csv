@@ -1,0 +1,401 @@
+codigo,nombre,edificio,ala,ocupantes
+CIE-N-01,Laboratorio de química 1,Ciencias,Ala Norte,80
+CIE-N-02,Laboratorio de física 2,Ciencias,Ala Norte,66
+CIE-N-03,Aula de biología 3,Ciencias,Ala Norte,14
+CIE-N-04,Sala de microscopía 4,Ciencias,Ala Norte,77
+CIE-N-05,Aula de matemática 5,Ciencias,Ala Norte,54
+CIE-N-06,Laboratorio de química 6,Ciencias,Ala Norte,71
+CIE-N-07,Laboratorio de física 7,Ciencias,Ala Norte,63
+CIE-N-08,Aula de biología 8,Ciencias,Ala Norte,76
+CIE-N-09,Sala de microscopía 9,Ciencias,Ala Norte,0
+CIE-N-10,Aula de matemática 10,Ciencias,Ala Norte,15
+CIE-N-11,Laboratorio de química 11,Ciencias,Ala Norte,15
+CIE-N-12,Laboratorio de física 12,Ciencias,Ala Norte,75
+CIE-N-13,Aula de biología 13,Ciencias,Ala Norte,27
+CIE-N-14,Sala de microscopía 14,Ciencias,Ala Norte,55
+CIE-N-15,Aula de matemática 15,Ciencias,Ala Norte,46
+CIE-N-16,Laboratorio de química 16,Ciencias,Ala Norte,66
+CIE-N-17,Laboratorio de física 17,Ciencias,Ala Norte,44
+CIE-N-18,Aula de biología 18,Ciencias,Ala Norte,80
+CIE-N-19,Sala de microscopía 19,Ciencias,Ala Norte,37
+CIE-N-20,Aula de matemática 20,Ciencias,Ala Norte,74
+CIE-N-21,Laboratorio de química 21,Ciencias,Ala Norte,55
+CIE-N-22,Laboratorio de física 22,Ciencias,Ala Norte,65
+CIE-N-23,Aula de biología 23,Ciencias,Ala Norte,80
+CIE-N-24,Sala de microscopía 24,Ciencias,Ala Norte,71
+CIE-N-25,Aula de matemática 25,Ciencias,Ala Norte,15
+CIE-S-01,Laboratorio de química 1,Ciencias,Ala Sur,75
+CIE-S-02,Laboratorio de física 2,Ciencias,Ala Sur,80
+CIE-S-03,Aula de biología 3,Ciencias,Ala Sur,65
+CIE-S-04,Sala de microscopía 4,Ciencias,Ala Sur,62
+CIE-S-05,Aula de matemática 5,Ciencias,Ala Sur,4
+CIE-S-06,Laboratorio de química 6,Ciencias,Ala Sur,17
+CIE-S-07,Laboratorio de física 7,Ciencias,Ala Sur,67
+CIE-S-08,Aula de biología 8,Ciencias,Ala Sur,14
+CIE-S-09,Sala de microscopía 9,Ciencias,Ala Sur,55
+CIE-S-10,Aula de matemática 10,Ciencias,Ala Sur,62
+CIE-S-11,Laboratorio de química 11,Ciencias,Ala Sur,16
+CIE-S-12,Laboratorio de física 12,Ciencias,Ala Sur,59
+CIE-S-13,Aula de biología 13,Ciencias,Ala Sur,70
+CIE-S-14,Sala de microscopía 14,Ciencias,Ala Sur,60
+CIE-S-15,Aula de matemática 15,Ciencias,Ala Sur,40
+CIE-S-16,Laboratorio de química 16,Ciencias,Ala Sur,65
+CIE-S-17,Laboratorio de física 17,Ciencias,Ala Sur,52
+CIE-S-18,Aula de biología 18,Ciencias,Ala Sur,45
+CIE-S-19,Sala de microscopía 19,Ciencias,Ala Sur,2
+CIE-S-20,Aula de matemática 20,Ciencias,Ala Sur,0
+CIE-S-21,Laboratorio de química 21,Ciencias,Ala Sur,77
+CIE-S-22,Laboratorio de física 22,Ciencias,Ala Sur,67
+CIE-S-23,Aula de biología 23,Ciencias,Ala Sur,47
+CIE-S-24,Sala de microscopía 24,Ciencias,Ala Sur,34
+CIE-S-25,Aula de matemática 25,Ciencias,Ala Sur,60
+CIE-E-01,Laboratorio de química 1,Ciencias,Ala Este,64
+CIE-E-02,Laboratorio de física 2,Ciencias,Ala Este,72
+CIE-E-03,Aula de biología 3,Ciencias,Ala Este,5
+CIE-E-04,Sala de microscopía 4,Ciencias,Ala Este,41
+CIE-E-05,Aula de matemática 5,Ciencias,Ala Este,13
+CIE-E-06,Laboratorio de química 6,Ciencias,Ala Este,80
+CIE-E-07,Laboratorio de física 7,Ciencias,Ala Este,25
+CIE-E-08,Aula de biología 8,Ciencias,Ala Este,62
+CIE-E-09,Sala de microscopía 9,Ciencias,Ala Este,35
+CIE-E-10,Aula de matemática 10,Ciencias,Ala Este,48
+CIE-E-11,Laboratorio de química 11,Ciencias,Ala Este,80
+CIE-E-12,Laboratorio de física 12,Ciencias,Ala Este,53
+CIE-E-13,Aula de biología 13,Ciencias,Ala Este,0
+CIE-E-14,Sala de microscopía 14,Ciencias,Ala Este,80
+CIE-E-15,Aula de matemática 15,Ciencias,Ala Este,70
+CIE-E-16,Laboratorio de química 16,Ciencias,Ala Este,11
+CIE-E-17,Laboratorio de física 17,Ciencias,Ala Este,26
+CIE-E-18,Aula de biología 18,Ciencias,Ala Este,5
+CIE-E-19,Sala de microscopía 19,Ciencias,Ala Este,35
+CIE-E-20,Aula de matemática 20,Ciencias,Ala Este,46
+CIE-E-21,Laboratorio de química 21,Ciencias,Ala Este,50
+CIE-E-22,Laboratorio de física 22,Ciencias,Ala Este,74
+CIE-E-23,Aula de biología 23,Ciencias,Ala Este,63
+CIE-E-24,Sala de microscopía 24,Ciencias,Ala Este,18
+CIE-E-25,Aula de matemática 25,Ciencias,Ala Este,61
+CIE-O-01,Laboratorio de química 1,Ciencias,Ala Oeste,77
+CIE-O-02,Laboratorio de física 2,Ciencias,Ala Oeste,65
+CIE-O-03,Aula de biología 3,Ciencias,Ala Oeste,65
+CIE-O-04,Sala de microscopía 4,Ciencias,Ala Oeste,18
+CIE-O-05,Aula de matemática 5,Ciencias,Ala Oeste,76
+CIE-O-06,Laboratorio de química 6,Ciencias,Ala Oeste,65
+CIE-O-07,Laboratorio de física 7,Ciencias,Ala Oeste,20
+CIE-O-08,Aula de biología 8,Ciencias,Ala Oeste,26
+CIE-O-09,Sala de microscopía 9,Ciencias,Ala Oeste,15
+CIE-O-10,Aula de matemática 10,Ciencias,Ala Oeste,10
+CIE-O-11,Laboratorio de química 11,Ciencias,Ala Oeste,0
+CIE-O-12,Laboratorio de física 12,Ciencias,Ala Oeste,55
+CIE-O-13,Aula de biología 13,Ciencias,Ala Oeste,4
+CIE-O-14,Sala de microscopía 14,Ciencias,Ala Oeste,0
+CIE-O-15,Aula de matemática 15,Ciencias,Ala Oeste,39
+CIE-O-16,Laboratorio de química 16,Ciencias,Ala Oeste,16
+CIE-O-17,Laboratorio de física 17,Ciencias,Ala Oeste,60
+CIE-O-18,Aula de biología 18,Ciencias,Ala Oeste,22
+CIE-O-19,Sala de microscopía 19,Ciencias,Ala Oeste,80
+CIE-O-20,Aula de matemática 20,Ciencias,Ala Oeste,50
+CIE-O-21,Laboratorio de química 21,Ciencias,Ala Oeste,30
+CIE-O-22,Laboratorio de física 22,Ciencias,Ala Oeste,9
+CIE-O-23,Aula de biología 23,Ciencias,Ala Oeste,5
+CIE-O-24,Sala de microscopía 24,Ciencias,Ala Oeste,25
+CIE-O-25,Aula de matemática 25,Ciencias,Ala Oeste,0
+ING-A-01,Laboratorio de cómputo 1,Ingeniería,Ala A,7
+ING-A-02,Taller de electrónica 2,Ingeniería,Ala A,25
+ING-A-03,Aula de diseño 3,Ingeniería,Ala A,3
+ING-A-04,Sala de seminarios 4,Ingeniería,Ala A,80
+ING-A-05,Laboratorio de redes 5,Ingeniería,Ala A,80
+ING-A-06,Laboratorio de cómputo 6,Ingeniería,Ala A,18
+ING-A-07,Taller de electrónica 7,Ingeniería,Ala A,25
+ING-A-08,Aula de diseño 8,Ingeniería,Ala A,65
+ING-A-09,Sala de seminarios 9,Ingeniería,Ala A,11
+ING-A-10,Laboratorio de redes 10,Ingeniería,Ala A,25
+ING-A-11,Laboratorio de cómputo 11,Ingeniería,Ala A,40
+ING-A-12,Taller de electrónica 12,Ingeniería,Ala A,54
+ING-A-13,Aula de diseño 13,Ingeniería,Ala A,25
+ING-A-14,Sala de seminarios 14,Ingeniería,Ala A,75
+ING-A-15,Laboratorio de redes 15,Ingeniería,Ala A,80
+ING-A-16,Laboratorio de cómputo 16,Ingeniería,Ala A,36
+ING-A-17,Taller de electrónica 17,Ingeniería,Ala A,28
+ING-A-18,Aula de diseño 18,Ingeniería,Ala A,10
+ING-A-19,Sala de seminarios 19,Ingeniería,Ala A,43
+ING-A-20,Laboratorio de redes 20,Ingeniería,Ala A,25
+ING-A-21,Laboratorio de cómputo 21,Ingeniería,Ala A,46
+ING-A-22,Taller de electrónica 22,Ingeniería,Ala A,46
+ING-A-23,Aula de diseño 23,Ingeniería,Ala A,74
+ING-A-24,Sala de seminarios 24,Ingeniería,Ala A,28
+ING-A-25,Laboratorio de redes 25,Ingeniería,Ala A,80
+ING-B-01,Laboratorio de cómputo 1,Ingeniería,Ala B,72
+ING-B-02,Taller de electrónica 2,Ingeniería,Ala B,28
+ING-B-03,Aula de diseño 3,Ingeniería,Ala B,73
+ING-B-04,Sala de seminarios 4,Ingeniería,Ala B,20
+ING-B-05,Laboratorio de redes 5,Ingeniería,Ala B,80
+ING-B-06,Laboratorio de cómputo 6,Ingeniería,Ala B,65
+ING-B-07,Taller de electrónica 7,Ingeniería,Ala B,5
+ING-B-08,Aula de diseño 8,Ingeniería,Ala B,24
+ING-B-09,Sala de seminarios 9,Ingeniería,Ala B,14
+ING-B-10,Laboratorio de redes 10,Ingeniería,Ala B,36
+ING-B-11,Laboratorio de cómputo 11,Ingeniería,Ala B,9
+ING-B-12,Taller de electrónica 12,Ingeniería,Ala B,50
+ING-B-13,Aula de diseño 13,Ingeniería,Ala B,40
+ING-B-14,Sala de seminarios 14,Ingeniería,Ala B,80
+ING-B-15,Laboratorio de redes 15,Ingeniería,Ala B,40
+ING-B-16,Laboratorio de cómputo 16,Ingeniería,Ala B,0
+ING-B-17,Taller de electrónica 17,Ingeniería,Ala B,0
+ING-B-18,Aula de diseño 18,Ingeniería,Ala B,45
+ING-B-19,Sala de seminarios 19,Ingeniería,Ala B,55
+ING-B-20,Laboratorio de redes 20,Ingeniería,Ala B,70
+ING-B-21,Laboratorio de cómputo 21,Ingeniería,Ala B,79
+ING-B-22,Taller de electrónica 22,Ingeniería,Ala B,0
+ING-B-23,Aula de diseño 23,Ingeniería,Ala B,30
+ING-B-24,Sala de seminarios 24,Ingeniería,Ala B,55
+ING-B-25,Laboratorio de redes 25,Ingeniería,Ala B,16
+ING-C-01,Laboratorio de cómputo 1,Ingeniería,Ala C,65
+ING-C-02,Taller de electrónica 2,Ingeniería,Ala C,33
+ING-C-03,Aula de diseño 3,Ingeniería,Ala C,55
+ING-C-04,Sala de seminarios 4,Ingeniería,Ala C,0
+ING-C-05,Laboratorio de redes 5,Ingeniería,Ala C,4
+ING-C-06,Laboratorio de cómputo 6,Ingeniería,Ala C,50
+ING-C-07,Taller de electrónica 7,Ingeniería,Ala C,15
+ING-C-08,Aula de diseño 8,Ingeniería,Ala C,65
+ING-C-09,Sala de seminarios 9,Ingeniería,Ala C,0
+ING-C-10,Laboratorio de redes 10,Ingeniería,Ala C,44
+ING-C-11,Laboratorio de cómputo 11,Ingeniería,Ala C,5
+ING-C-12,Taller de electrónica 12,Ingeniería,Ala C,15
+ING-C-13,Aula de diseño 13,Ingeniería,Ala C,15
+ING-C-14,Sala de seminarios 14,Ingeniería,Ala C,80
+ING-C-15,Laboratorio de redes 15,Ingeniería,Ala C,55
+ING-C-16,Laboratorio de cómputo 16,Ingeniería,Ala C,39
+ING-C-17,Taller de electrónica 17,Ingeniería,Ala C,0
+ING-C-18,Aula de diseño 18,Ingeniería,Ala C,46
+ING-C-19,Sala de seminarios 19,Ingeniería,Ala C,60
+ING-C-20,Laboratorio de redes 20,Ingeniería,Ala C,65
+ING-C-21,Laboratorio de cómputo 21,Ingeniería,Ala C,17
+ING-C-22,Taller de electrónica 22,Ingeniería,Ala C,0
+ING-C-23,Aula de diseño 23,Ingeniería,Ala C,70
+ING-C-24,Sala de seminarios 24,Ingeniería,Ala C,51
+ING-C-25,Laboratorio de redes 25,Ingeniería,Ala C,19
+ING-D-01,Laboratorio de cómputo 1,Ingeniería,Ala D,0
+ING-D-02,Taller de electrónica 2,Ingeniería,Ala D,75
+ING-D-03,Aula de diseño 3,Ingeniería,Ala D,50
+ING-D-04,Sala de seminarios 4,Ingeniería,Ala D,10
+ING-D-05,Laboratorio de redes 5,Ingeniería,Ala D,71
+ING-D-06,Laboratorio de cómputo 6,Ingeniería,Ala D,0
+ING-D-07,Taller de electrónica 7,Ingeniería,Ala D,66
+ING-D-08,Aula de diseño 8,Ingeniería,Ala D,44
+ING-D-09,Sala de seminarios 9,Ingeniería,Ala D,41
+ING-D-10,Laboratorio de redes 10,Ingeniería,Ala D,0
+ING-D-11,Laboratorio de cómputo 11,Ingeniería,Ala D,32
+ING-D-12,Taller de electrónica 12,Ingeniería,Ala D,29
+ING-D-13,Aula de diseño 13,Ingeniería,Ala D,20
+ING-D-14,Sala de seminarios 14,Ingeniería,Ala D,52
+ING-D-15,Laboratorio de redes 15,Ingeniería,Ala D,47
+ING-D-16,Laboratorio de cómputo 16,Ingeniería,Ala D,30
+ING-D-17,Taller de electrónica 17,Ingeniería,Ala D,36
+ING-D-18,Aula de diseño 18,Ingeniería,Ala D,30
+ING-D-19,Sala de seminarios 19,Ingeniería,Ala D,70
+ING-D-20,Laboratorio de redes 20,Ingeniería,Ala D,71
+ING-D-21,Laboratorio de cómputo 21,Ingeniería,Ala D,75
+ING-D-22,Taller de electrónica 22,Ingeniería,Ala D,25
+ING-D-23,Aula de diseño 23,Ingeniería,Ala D,20
+ING-D-24,Sala de seminarios 24,Ingeniería,Ala D,1
+ING-D-25,Laboratorio de redes 25,Ingeniería,Ala D,67
+HUM-N-01,Aula magna 1,Humanidades,Ala Norte,5
+HUM-N-02,Sala de lectura 2,Humanidades,Ala Norte,11
+HUM-N-03,Aula de idiomas 3,Humanidades,Ala Norte,40
+HUM-N-04,Sala Ñandú 4,Humanidades,Ala Norte,15
+HUM-N-05,Taller de escritura 5,Humanidades,Ala Norte,3
+HUM-N-06,Aula magna 6,Humanidades,Ala Norte,75
+HUM-N-07,Sala de lectura 7,Humanidades,Ala Norte,5
+HUM-N-08,Aula de idiomas 8,Humanidades,Ala Norte,49
+HUM-N-09,Sala Ñandú 9,Humanidades,Ala Norte,67
+HUM-N-10,Taller de escritura 10,Humanidades,Ala Norte,21
+HUM-N-11,Aula magna 11,Humanidades,Ala Norte,14
+HUM-N-12,Sala de lectura 12,Humanidades,Ala Norte,80
+HUM-N-13,Aula de idiomas 13,Humanidades,Ala Norte,43
+HUM-N-14,Sala Ñandú 14,Humanidades,Ala Norte,40
+HUM-N-15,Taller de escritura 15,Humanidades,Ala Norte,0
+HUM-N-16,Aula magna 16,Humanidades,Ala Norte,25
+HUM-N-17,Sala de lectura 17,Humanidades,Ala Norte,45
+HUM-N-18,Aula de idiomas 18,Humanidades,Ala Norte,45
+HUM-N-19,Sala Ñandú 19,Humanidades,Ala Norte,60
+HUM-N-20,Taller de escritura 20,Humanidades,Ala Norte,0
+HUM-S-01,Aula magna 1,Humanidades,Ala Sur,62
+HUM-S-02,Sala de lectura 2,Humanidades,Ala Sur,46
+HUM-S-03,Aula de idiomas 3,Humanidades,Ala Sur,69
+HUM-S-04,Sala Ñandú 4,Humanidades,Ala Sur,80
+HUM-S-05,Taller de escritura 5,Humanidades,Ala Sur,0
+HUM-S-06,Aula magna 6,Humanidades,Ala Sur,20
+HUM-S-07,Sala de lectura 7,Humanidades,Ala Sur,15
+HUM-S-08,Aula de idiomas 8,Humanidades,Ala Sur,1
+HUM-S-09,Sala Ñandú 9,Humanidades,Ala Sur,9
+HUM-S-10,Taller de escritura 10,Humanidades,Ala Sur,30
+HUM-S-11,Aula magna 11,Humanidades,Ala Sur,77
+HUM-S-12,Sala de lectura 12,Humanidades,Ala Sur,17
+HUM-S-13,Aula de idiomas 13,Humanidades,Ala Sur,80
+HUM-S-14,Sala Ñandú 14,Humanidades,Ala Sur,15
+HUM-S-15,Taller de escritura 15,Humanidades,Ala Sur,10
+HUM-S-16,Aula magna 16,Humanidades,Ala Sur,45
+HUM-S-17,Sala de lectura 17,Humanidades,Ala Sur,45
+HUM-S-18,Aula de idiomas 18,Humanidades,Ala Sur,64
+HUM-S-19,Sala Ñandú 19,Humanidades,Ala Sur,80
+HUM-S-20,Taller de escritura 20,Humanidades,Ala Sur,55
+HUM-E-01,Aula magna 1,Humanidades,Ala Este,59
+HUM-E-02,Sala de lectura 2,Humanidades,Ala Este,45
+HUM-E-03,Aula de idiomas 3,Humanidades,Ala Este,80
+HUM-E-04,Sala Ñandú 4,Humanidades,Ala Este,12
+HUM-E-05,Taller de escritura 5,Humanidades,Ala Este,40
+HUM-E-06,Aula magna 6,Humanidades,Ala Este,35
+HUM-E-07,Sala de lectura 7,Humanidades,Ala Este,65
+HUM-E-08,Aula de idiomas 8,Humanidades,Ala Este,43
+HUM-E-09,Sala Ñandú 9,Humanidades,Ala Este,75
+HUM-E-10,Taller de escritura 10,Humanidades,Ala Este,25
+HUM-E-11,Aula magna 11,Humanidades,Ala Este,70
+HUM-E-12,Sala de lectura 12,Humanidades,Ala Este,55
+HUM-E-13,Aula de idiomas 13,Humanidades,Ala Este,45
+HUM-E-14,Sala Ñandú 14,Humanidades,Ala Este,60
+HUM-E-15,Taller de escritura 15,Humanidades,Ala Este,70
+HUM-E-16,Aula magna 16,Humanidades,Ala Este,17
+HUM-E-17,Sala de lectura 17,Humanidades,Ala Este,50
+HUM-E-18,Aula de idiomas 18,Humanidades,Ala Este,41
+HUM-E-19,Sala Ñandú 19,Humanidades,Ala Este,70
+HUM-E-20,Taller de escritura 20,Humanidades,Ala Este,40
+HUM-O-01,Aula magna 1,Humanidades,Ala Oeste,20
+HUM-O-02,Sala de lectura 2,Humanidades,Ala Oeste,16
+HUM-O-03,Aula de idiomas 3,Humanidades,Ala Oeste,70
+HUM-O-04,Sala Ñandú 4,Humanidades,Ala Oeste,52
+HUM-O-05,Taller de escritura 5,Humanidades,Ala Oeste,0
+HUM-O-06,Aula magna 6,Humanidades,Ala Oeste,53
+HUM-O-07,Sala de lectura 7,Humanidades,Ala Oeste,75
+HUM-O-08,Aula de idiomas 8,Humanidades,Ala Oeste,70
+HUM-O-09,Sala Ñandú 9,Humanidades,Ala Oeste,55
+HUM-O-10,Taller de escritura 10,Humanidades,Ala Oeste,50
+HUM-O-11,Aula magna 11,Humanidades,Ala Oeste,80
+HUM-O-12,Sala de lectura 12,Humanidades,Ala Oeste,25
+HUM-O-13,Aula de idiomas 13,Humanidades,Ala Oeste,0
+HUM-O-14,Sala Ñandú 14,Humanidades,Ala Oeste,33
+HUM-O-15,Taller de escritura 15,Humanidades,Ala Oeste,65
+HUM-O-16,Aula magna 16,Humanidades,Ala Oeste,61
+HUM-O-17,Sala de lectura 17,Humanidades,Ala Oeste,62
+HUM-O-18,Aula de idiomas 18,Humanidades,Ala Oeste,5
+HUM-O-19,Sala Ñandú 19,Humanidades,Ala Oeste,16
+HUM-O-20,Taller de escritura 20,Humanidades,Ala Oeste,35
+ADM-C-01,Oficina 1,Administración,Ala Central,30
+ADM-C-02,Sala de reuniones 2,Administración,Ala Central,66
+ADM-C-03,Archivo 3,Administración,Ala Central,55
+ADM-C-04,Aula de contabilidad 4,Administración,Ala Central,80
+ADM-C-05,Sala de juntas 5,Administración,Ala Central,69
+ADM-C-06,Oficina 6,Administración,Ala Central,13
+ADM-C-07,Sala de reuniones 7,Administración,Ala Central,35
+ADM-C-08,Archivo 8,Administración,Ala Central,27
+ADM-C-09,Aula de contabilidad 9,Administración,Ala Central,22
+ADM-C-10,Sala de juntas 10,Administración,Ala Central,11
+ADM-C-11,Oficina 11,Administración,Ala Central,67
+ADM-C-12,Sala de reuniones 12,Administración,Ala Central,72
+ADM-C-13,Archivo 13,Administración,Ala Central,0
+ADM-C-14,Aula de contabilidad 14,Administración,Ala Central,65
+ADM-C-15,Sala de juntas 15,Administración,Ala Central,0
+ADM-C-16,Oficina 16,Administración,Ala Central,66
+ADM-C-17,Sala de reuniones 17,Administración,Ala Central,61
+ADM-C-18,Archivo 18,Administración,Ala Central,44
+ADM-C-19,Aula de contabilidad 19,Administración,Ala Central,50
+ADM-C-20,Sala de juntas 20,Administración,Ala Central,33
+ADM-A-01,Oficina 1,Administración,Ala Alta,42
+ADM-A-02,Sala de reuniones 2,Administración,Ala Alta,5
+ADM-A-03,Archivo 3,Administración,Ala Alta,18
+ADM-A-04,Aula de contabilidad 4,Administración,Ala Alta,0
+ADM-A-05,Sala de juntas 5,Administración,Ala Alta,33
+ADM-A-06,Oficina 6,Administración,Ala Alta,60
+ADM-A-07,Sala de reuniones 7,Administración,Ala Alta,40
+ADM-A-08,Archivo 8,Administración,Ala Alta,52
+ADM-A-09,Aula de contabilidad 9,Administración,Ala Alta,5
+ADM-A-10,Sala de juntas 10,Administración,Ala Alta,9
+ADM-A-11,Oficina 11,Administración,Ala Alta,66
+ADM-A-12,Sala de reuniones 12,Administración,Ala Alta,39
+ADM-A-13,Archivo 13,Administración,Ala Alta,79
+ADM-A-14,Aula de contabilidad 14,Administración,Ala Alta,80
+ADM-A-15,Sala de juntas 15,Administración,Ala Alta,67
+ADM-A-16,Oficina 16,Administración,Ala Alta,63
+ADM-A-17,Sala de reuniones 17,Administración,Ala Alta,50
+ADM-A-18,Archivo 18,Administración,Ala Alta,10
+ADM-A-19,Aula de contabilidad 19,Administración,Ala Alta,23
+ADM-A-20,Sala de juntas 20,Administración,Ala Alta,68
+ADM-B-01,Oficina 1,Administración,Ala Baja,50
+ADM-B-02,Sala de reuniones 2,Administración,Ala Baja,78
+ADM-B-03,Archivo 3,Administración,Ala Baja,4
+ADM-B-04,Aula de contabilidad 4,Administración,Ala Baja,27
+ADM-B-05,Sala de juntas 5,Administración,Ala Baja,80
+ADM-B-06,Oficina 6,Administración,Ala Baja,30
+ADM-B-07,Sala de reuniones 7,Administración,Ala Baja,35
+ADM-B-08,Archivo 8,Administración,Ala Baja,63
+ADM-B-09,Aula de contabilidad 9,Administración,Ala Baja,50
+ADM-B-10,Sala de juntas 10,Administración,Ala Baja,60
+ADM-B-11,Oficina 11,Administración,Ala Baja,70
+ADM-B-12,Sala de reuniones 12,Administración,Ala Baja,20
+ADM-B-13,Archivo 13,Administración,Ala Baja,17
+ADM-B-14,Aula de contabilidad 14,Administración,Ala Baja,74
+ADM-B-15,Sala de juntas 15,Administración,Ala Baja,80
+ADM-B-16,Oficina 16,Administración,Ala Baja,5
+ADM-B-17,Sala de reuniones 17,Administración,Ala Baja,45
+ADM-B-18,Archivo 18,Administración,Ala Baja,23
+ADM-B-19,Aula de contabilidad 19,Administración,Ala Baja,55
+ADM-B-20,Sala de juntas 20,Administración,Ala Baja,25
+SER-B-01,Sala de estudio 1,Servicios,Ala Biblioteca,5
+SER-B-02,Mesa de comedor 2,Servicios,Ala Biblioteca,20
+SER-B-03,Gimnasio 3,Servicios,Ala Biblioteca,75
+SER-B-04,Enfermería 4,Servicios,Ala Biblioteca,4
+SER-B-05,Cubículo grupal 5,Servicios,Ala Biblioteca,80
+SER-B-06,Sala de estudio 6,Servicios,Ala Biblioteca,10
+SER-B-07,Mesa de comedor 7,Servicios,Ala Biblioteca,53
+SER-B-08,Gimnasio 8,Servicios,Ala Biblioteca,50
+SER-B-09,Enfermería 9,Servicios,Ala Biblioteca,80
+SER-B-10,Cubículo grupal 10,Servicios,Ala Biblioteca,0
+SER-B-11,Sala de estudio 11,Servicios,Ala Biblioteca,0
+SER-B-12,Mesa de comedor 12,Servicios,Ala Biblioteca,80
+SER-B-13,Gimnasio 13,Servicios,Ala Biblioteca,33
+SER-B-14,Enfermería 14,Servicios,Ala Biblioteca,0
+SER-B-15,Cubículo grupal 15,Servicios,Ala Biblioteca,30
+SER-B-16,Sala de estudio 16,Servicios,Ala Biblioteca,12
+SER-B-17,Mesa de comedor 17,Servicios,Ala Biblioteca,65
+SER-B-18,Gimnasio 18,Servicios,Ala Biblioteca,25
+SER-B-19,Enfermería 19,Servicios,Ala Biblioteca,75
+SER-B-20,Cubículo grupal 20,Servicios,Ala Biblioteca,25
+SER-C-01,Sala de estudio 1,Servicios,Ala Comedor,55
+SER-C-02,Mesa de comedor 2,Servicios,Ala Comedor,59
+SER-C-03,Gimnasio 3,Servicios,Ala Comedor,27
+SER-C-04,Enfermería 4,Servicios,Ala Comedor,57
+SER-C-05,Cubículo grupal 5,Servicios,Ala Comedor,72
+SER-C-06,Sala de estudio 6,Servicios,Ala Comedor,12
+SER-C-07,Mesa de comedor 7,Servicios,Ala Comedor,28
+SER-C-08,Gimnasio 8,Servicios,Ala Comedor,15
+SER-C-09,Enfermería 9,Servicios,Ala Comedor,46
+SER-C-10,Cubículo grupal 10,Servicios,Ala Comedor,21
+SER-C-11,Sala de estudio 11,Servicios,Ala Comedor,80
+SER-C-12,Mesa de comedor 12,Servicios,Ala Comedor,65
+SER-C-13,Gimnasio 13,Servicios,Ala Comedor,65
+SER-C-14,Enfermería 14,Servicios,Ala Comedor,0
+SER-C-15,Cubículo grupal 15,Servicios,Ala Comedor,35
+SER-C-16,Sala de estudio 16,Servicios,Ala Comedor,55
+SER-C-17,Mesa de comedor 17,Servicios,Ala Comedor,75
+SER-C-18,Gimnasio 18,Servicios,Ala Comedor,35
+SER-C-19,Enfermería 19,Servicios,Ala Comedor,63
+SER-C-20,Cubículo grupal 20,Servicios,Ala Comedor,14
+SER-D-01,Sala de estudio 1,Servicios,Ala Deportes,72
+SER-D-02,Mesa de comedor 2,Servicios,Ala Deportes,55
+SER-D-03,Gimnasio 3,Servicios,Ala Deportes,78
+SER-D-04,Enfermería 4,Servicios,Ala Deportes,7
+SER-D-05,Cubículo grupal 5,Servicios,Ala Deportes,72
+SER-D-06,Sala de estudio 6,Servicios,Ala Deportes,40
+SER-D-07,Mesa de comedor 7,Servicios,Ala Deportes,11
+SER-D-08,Gimnasio 8,Servicios,Ala Deportes,45
+SER-D-09,Enfermería 9,Servicios,Ala Deportes,68
+SER-D-10,Cubículo grupal 10,Servicios,Ala Deportes,13
+SER-D-11,Sala de estudio 11,Servicios,Ala Deportes,38
+SER-D-12,Mesa de comedor 12,Servicios,Ala Deportes,0
+SER-D-13,Gimnasio 13,Servicios,Ala Deportes,9
+SER-D-14,Enfermería 14,Servicios,Ala Deportes,58
+SER-D-15,Cubículo grupal 15,Servicios,Ala Deportes,50
+SER-D-16,Sala de estudio 16,Servicios,Ala Deportes,74
+SER-D-17,Mesa de comedor 17,Servicios,Ala Deportes,79
+SER-D-18,Gimnasio 18,Servicios,Ala Deportes,3
+SER-D-19,Enfermería 19,Servicios,Ala Deportes,50
+SER-D-20,Cubículo grupal 20,Servicios,Ala Deportes,15

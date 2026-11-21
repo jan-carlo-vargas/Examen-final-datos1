@@ -1,0 +1,10 @@
+{
+  "description": "Ayuda a equipos universitarios a gestionar directorios, simular alarmas y consultar rutas de evacuación para coordinar respuestas de emergencia.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

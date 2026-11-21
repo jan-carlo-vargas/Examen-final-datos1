@@ -1,0 +1,645 @@
+desde,hacia,segundos,estado
+Pasillo Ciencias Ala Norte,Vestíbulo Ciencias,16,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-01,7,Abierto
+CIE-N-01,CIE-N-02,4,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-02,22,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-03,13,Abierto
+CIE-N-03,CIE-N-04,3,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-04,6,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-05,7,Abierto
+CIE-N-05,CIE-N-06,3,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-06,15,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-07,9,Abierto
+CIE-N-07,CIE-N-08,5,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-08,20,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-09,12,Abierto
+CIE-N-09,CIE-N-10,5,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-10,19,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-11,12,Abierto
+CIE-N-11,CIE-N-12,6,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-12,12,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-13,21,Abierto
+CIE-N-13,CIE-N-14,5,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-14,18,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-15,6,Abierto
+CIE-N-15,CIE-N-16,6,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-16,12,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-17,24,Abierto
+CIE-N-17,CIE-N-18,4,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-18,19,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-19,11,Abierto
+CIE-N-19,CIE-N-20,3,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-20,23,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-21,20,Abierto
+CIE-N-21,CIE-N-22,6,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-22,20,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-23,21,Abierto
+CIE-N-23,CIE-N-24,3,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-24,20,Abierto
+Pasillo Ciencias Ala Norte,CIE-N-25,11,Abierto
+Pasillo Ciencias Ala Sur,Vestíbulo Ciencias,16,Abierto
+Pasillo Ciencias Ala Norte,Pasillo Ciencias Ala Sur,15,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-01,6,Abierto
+CIE-S-01,CIE-S-02,6,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-02,9,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-03,14,Abierto
+CIE-S-03,CIE-S-04,4,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-04,21,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-05,15,Abierto
+CIE-S-05,CIE-S-06,5,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-06,18,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-07,23,Abierto
+CIE-S-07,CIE-S-08,3,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-08,16,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-09,24,Abierto
+CIE-S-09,CIE-S-10,4,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-10,21,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-11,8,Abierto
+CIE-S-11,CIE-S-12,5,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-12,11,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-13,23,Abierto
+CIE-S-13,CIE-S-14,3,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-14,22,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-15,10,Abierto
+CIE-S-15,CIE-S-16,6,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-16,17,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-17,8,Abierto
+CIE-S-17,CIE-S-18,3,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-18,18,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-19,17,Abierto
+CIE-S-19,CIE-S-20,3,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-20,12,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-21,11,Abierto
+CIE-S-21,CIE-S-22,3,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-22,13,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-23,10,Abierto
+CIE-S-23,CIE-S-24,5,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-24,16,Abierto
+Pasillo Ciencias Ala Sur,CIE-S-25,7,Abierto
+Pasillo Ciencias Ala Este,Vestíbulo Ciencias,14,Abierto
+Pasillo Ciencias Ala Sur,Pasillo Ciencias Ala Este,15,Abierto
+Pasillo Ciencias Ala Este,CIE-E-01,10,Abierto
+CIE-E-01,CIE-E-02,3,Abierto
+Pasillo Ciencias Ala Este,CIE-E-02,11,Abierto
+Pasillo Ciencias Ala Este,CIE-E-03,25,Abierto
+CIE-E-03,CIE-E-04,3,Abierto
+Pasillo Ciencias Ala Este,CIE-E-04,19,Abierto
+Pasillo Ciencias Ala Este,CIE-E-05,22,Abierto
+CIE-E-05,CIE-E-06,3,Abierto
+Pasillo Ciencias Ala Este,CIE-E-06,16,Abierto
+Pasillo Ciencias Ala Este,CIE-E-07,19,Abierto
+CIE-E-07,CIE-E-08,3,Abierto
+Pasillo Ciencias Ala Este,CIE-E-08,11,Abierto
+Pasillo Ciencias Ala Este,CIE-E-09,25,Abierto
+CIE-E-09,CIE-E-10,6,Abierto
+Pasillo Ciencias Ala Este,CIE-E-10,6,Abierto
+Pasillo Ciencias Ala Este,CIE-E-11,14,Abierto
+CIE-E-11,CIE-E-12,3,Abierto
+Pasillo Ciencias Ala Este,CIE-E-12,10,Abierto
+Pasillo Ciencias Ala Este,CIE-E-13,25,Abierto
+CIE-E-13,CIE-E-14,3,Abierto
+Pasillo Ciencias Ala Este,CIE-E-14,13,Abierto
+Pasillo Ciencias Ala Este,CIE-E-15,11,Abierto
+CIE-E-15,CIE-E-16,3,Abierto
+Pasillo Ciencias Ala Este,CIE-E-16,14,Abierto
+Pasillo Ciencias Ala Este,CIE-E-17,24,Abierto
+CIE-E-17,CIE-E-18,3,Abierto
+Pasillo Ciencias Ala Este,CIE-E-18,20,Abierto
+Pasillo Ciencias Ala Este,CIE-E-19,13,Abierto
+CIE-E-19,CIE-E-20,3,Abierto
+Pasillo Ciencias Ala Este,CIE-E-20,22,Abierto
+Pasillo Ciencias Ala Este,CIE-E-21,10,Abierto
+CIE-E-21,CIE-E-22,4,Abierto
+Pasillo Ciencias Ala Este,CIE-E-22,20,Abierto
+Pasillo Ciencias Ala Este,CIE-E-23,6,Abierto
+CIE-E-23,CIE-E-24,5,Abierto
+Pasillo Ciencias Ala Este,CIE-E-24,12,Abierto
+Pasillo Ciencias Ala Este,CIE-E-25,22,Abierto
+Pasillo Ciencias Ala Oeste,Vestíbulo Ciencias,16,Abierto
+Pasillo Ciencias Ala Este,Pasillo Ciencias Ala Oeste,15,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-01,19,Abierto
+CIE-O-01,CIE-O-02,3,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-02,12,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-03,6,Abierto
+CIE-O-03,CIE-O-04,3,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-04,18,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-05,17,Abierto
+CIE-O-05,CIE-O-06,3,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-06,19,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-07,24,Abierto
+CIE-O-07,CIE-O-08,4,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-08,10,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-09,12,Abierto
+CIE-O-09,CIE-O-10,4,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-10,22,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-11,11,Abierto
+CIE-O-11,CIE-O-12,5,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-12,17,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-13,13,Abierto
+CIE-O-13,CIE-O-14,4,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-14,19,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-15,7,Abierto
+CIE-O-15,CIE-O-16,3,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-16,16,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-17,7,Abierto
+CIE-O-17,CIE-O-18,4,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-18,23,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-19,21,Abierto
+CIE-O-19,CIE-O-20,4,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-20,20,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-21,9,Abierto
+CIE-O-21,CIE-O-22,5,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-22,10,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-23,20,Abierto
+CIE-O-23,CIE-O-24,3,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-24,9,Abierto
+Pasillo Ciencias Ala Oeste,CIE-O-25,5,Abierto
+Vestíbulo Ciencias,Salida Norte,30,Bloqueado
+Vestíbulo Ciencias,Salida Noreste,40,Abierto
+Vestíbulo Ciencias,Explanada Norte,20,Abierto
+Pasillo Ingeniería Ala A,Vestíbulo Ingeniería,16,Abierto
+Pasillo Ingeniería Ala A,ING-A-01,7,Abierto
+ING-A-01,ING-A-02,6,Abierto
+Pasillo Ingeniería Ala A,ING-A-02,25,Abierto
+Pasillo Ingeniería Ala A,ING-A-03,18,Abierto
+ING-A-03,ING-A-04,5,Abierto
+Pasillo Ingeniería Ala A,ING-A-04,21,Abierto
+Pasillo Ingeniería Ala A,ING-A-05,16,Abierto
+ING-A-05,ING-A-06,3,Abierto
+Pasillo Ingeniería Ala A,ING-A-06,23,Abierto
+Pasillo Ingeniería Ala A,ING-A-07,5,Abierto
+ING-A-07,ING-A-08,5,Abierto
+Pasillo Ingeniería Ala A,ING-A-08,12,Abierto
+Pasillo Ingeniería Ala A,ING-A-09,8,Abierto
+ING-A-09,ING-A-10,6,Abierto
+Pasillo Ingeniería Ala A,ING-A-10,12,Abierto
+Pasillo Ingeniería Ala A,ING-A-11,14,Abierto
+ING-A-11,ING-A-12,4,Abierto
+Pasillo Ingeniería Ala A,ING-A-12,14,Abierto
+Pasillo Ingeniería Ala A,ING-A-13,22,Abierto
+ING-A-13,ING-A-14,3,Abierto
+Pasillo Ingeniería Ala A,ING-A-14,5,Abierto
+Pasillo Ingeniería Ala A,ING-A-15,15,Abierto
+ING-A-15,ING-A-16,4,Abierto
+Pasillo Ingeniería Ala A,ING-A-16,19,Abierto
+Pasillo Ingeniería Ala A,ING-A-17,23,Abierto
+ING-A-17,ING-A-18,3,Abierto
+Pasillo Ingeniería Ala A,ING-A-18,12,Abierto
+Pasillo Ingeniería Ala A,ING-A-19,20,Abierto
+ING-A-19,ING-A-20,4,Abierto
+Pasillo Ingeniería Ala A,ING-A-20,24,Abierto
+Pasillo Ingeniería Ala A,ING-A-21,21,Abierto
+ING-A-21,ING-A-22,6,Abierto
+Pasillo Ingeniería Ala A,ING-A-22,8,Abierto
+Pasillo Ingeniería Ala A,ING-A-23,7,Abierto
+ING-A-23,ING-A-24,4,Abierto
+Pasillo Ingeniería Ala A,ING-A-24,5,Abierto
+Pasillo Ingeniería Ala A,ING-A-25,24,Abierto
+Pasillo Ingeniería Ala B,Vestíbulo Ingeniería,18,Bloqueado
+Pasillo Ingeniería Ala A,Pasillo Ingeniería Ala B,15,Abierto
+Pasillo Ingeniería Ala B,ING-B-01,14,Abierto
+ING-B-01,ING-B-02,4,Abierto
+Pasillo Ingeniería Ala B,ING-B-02,18,Abierto
+Pasillo Ingeniería Ala B,ING-B-03,13,Abierto
+ING-B-03,ING-B-04,3,Abierto
+Pasillo Ingeniería Ala B,ING-B-04,19,Abierto
+Pasillo Ingeniería Ala B,ING-B-05,24,Abierto
+ING-B-05,ING-B-06,5,Abierto
+Pasillo Ingeniería Ala B,ING-B-06,9,Abierto
+Pasillo Ingeniería Ala B,ING-B-07,17,Abierto
+ING-B-07,ING-B-08,3,Abierto
+Pasillo Ingeniería Ala B,ING-B-08,19,Abierto
+Pasillo Ingeniería Ala B,ING-B-09,23,Abierto
+ING-B-09,ING-B-10,3,Abierto
+Pasillo Ingeniería Ala B,ING-B-10,8,Abierto
+Pasillo Ingeniería Ala B,ING-B-11,12,Abierto
+ING-B-11,ING-B-12,5,Abierto
+Pasillo Ingeniería Ala B,ING-B-12,19,Abierto
+Pasillo Ingeniería Ala B,ING-B-13,7,Abierto
+ING-B-13,ING-B-14,6,Abierto
+Pasillo Ingeniería Ala B,ING-B-14,13,Abierto
+Pasillo Ingeniería Ala B,ING-B-15,19,Abierto
+ING-B-15,ING-B-16,6,Abierto
+Pasillo Ingeniería Ala B,ING-B-16,14,Abierto
+Pasillo Ingeniería Ala B,ING-B-17,13,Abierto
+ING-B-17,ING-B-18,6,Abierto
+Pasillo Ingeniería Ala B,ING-B-18,24,Abierto
+Pasillo Ingeniería Ala B,ING-B-19,18,Abierto
+ING-B-19,ING-B-20,6,Abierto
+Pasillo Ingeniería Ala B,ING-B-20,14,Abierto
+Pasillo Ingeniería Ala B,ING-B-21,15,Abierto
+ING-B-21,ING-B-22,4,Abierto
+Pasillo Ingeniería Ala B,ING-B-22,8,Abierto
+Pasillo Ingeniería Ala B,ING-B-23,24,Abierto
+ING-B-23,ING-B-24,3,Abierto
+Pasillo Ingeniería Ala B,ING-B-24,11,Abierto
+Pasillo Ingeniería Ala B,ING-B-25,11,Abierto
+Pasillo Ingeniería Ala C,Vestíbulo Ingeniería,14,Abierto
+Pasillo Ingeniería Ala B,Pasillo Ingeniería Ala C,15,Abierto
+Pasillo Ingeniería Ala C,ING-C-01,17,Abierto
+ING-C-01,ING-C-02,4,Abierto
+Pasillo Ingeniería Ala C,ING-C-02,15,Abierto
+Pasillo Ingeniería Ala C,ING-C-03,10,Abierto
+ING-C-03,ING-C-04,3,Abierto
+Pasillo Ingeniería Ala C,ING-C-04,12,Abierto
+Pasillo Ingeniería Ala C,ING-C-05,17,Abierto
+ING-C-05,ING-C-06,4,Abierto
+Pasillo Ingeniería Ala C,ING-C-06,24,Abierto
+Pasillo Ingeniería Ala C,ING-C-07,15,Abierto
+ING-C-07,ING-C-08,6,Abierto
+Pasillo Ingeniería Ala C,ING-C-08,11,Abierto
+Pasillo Ingeniería Ala C,ING-C-09,24,Abierto
+ING-C-09,ING-C-10,5,Abierto
+Pasillo Ingeniería Ala C,ING-C-10,22,Abierto
+Pasillo Ingeniería Ala C,ING-C-11,22,Abierto
+ING-C-11,ING-C-12,6,Abierto
+Pasillo Ingeniería Ala C,ING-C-12,13,Abierto
+Pasillo Ingeniería Ala C,ING-C-13,16,Abierto
+ING-C-13,ING-C-14,6,Abierto
+Pasillo Ingeniería Ala C,ING-C-14,12,Abierto
+Pasillo Ingeniería Ala C,ING-C-15,10,Abierto
+ING-C-15,ING-C-16,5,Abierto
+Pasillo Ingeniería Ala C,ING-C-16,6,Abierto
+Pasillo Ingeniería Ala C,ING-C-17,24,Abierto
+ING-C-17,ING-C-18,4,Abierto
+Pasillo Ingeniería Ala C,ING-C-18,14,Abierto
+Pasillo Ingeniería Ala C,ING-C-19,10,Abierto
+ING-C-19,ING-C-20,6,Abierto
+Pasillo Ingeniería Ala C,ING-C-20,23,Abierto
+Pasillo Ingeniería Ala C,ING-C-21,9,Abierto
+ING-C-21,ING-C-22,6,Abierto
+Pasillo Ingeniería Ala C,ING-C-22,17,Abierto
+Pasillo Ingeniería Ala C,ING-C-23,25,Abierto
+ING-C-23,ING-C-24,6,Abierto
+Pasillo Ingeniería Ala C,ING-C-24,6,Abierto
+Pasillo Ingeniería Ala C,ING-C-25,24,Abierto
+Pasillo Ingeniería Ala D,Vestíbulo Ingeniería,14,Abierto
+Pasillo Ingeniería Ala C,Pasillo Ingeniería Ala D,15,Abierto
+Pasillo Ingeniería Ala D,ING-D-01,6,Abierto
+ING-D-01,ING-D-02,5,Abierto
+Pasillo Ingeniería Ala D,ING-D-02,22,Abierto
+Pasillo Ingeniería Ala D,ING-D-03,14,Abierto
+ING-D-03,ING-D-04,6,Abierto
+Pasillo Ingeniería Ala D,ING-D-04,12,Abierto
+Pasillo Ingeniería Ala D,ING-D-05,25,Abierto
+ING-D-05,ING-D-06,5,Abierto
+Pasillo Ingeniería Ala D,ING-D-06,24,Abierto
+Pasillo Ingeniería Ala D,ING-D-07,21,Abierto
+ING-D-07,ING-D-08,5,Abierto
+Pasillo Ingeniería Ala D,ING-D-08,16,Abierto
+Pasillo Ingeniería Ala D,ING-D-09,17,Abierto
+ING-D-09,ING-D-10,4,Abierto
+Pasillo Ingeniería Ala D,ING-D-10,5,Abierto
+Pasillo Ingeniería Ala D,ING-D-11,18,Abierto
+ING-D-11,ING-D-12,6,Abierto
+Pasillo Ingeniería Ala D,ING-D-12,17,Abierto
+Pasillo Ingeniería Ala D,ING-D-13,24,Abierto
+ING-D-13,ING-D-14,5,Abierto
+Pasillo Ingeniería Ala D,ING-D-14,12,Abierto
+Pasillo Ingeniería Ala D,ING-D-15,22,Abierto
+ING-D-15,ING-D-16,6,Abierto
+Pasillo Ingeniería Ala D,ING-D-16,16,Abierto
+Pasillo Ingeniería Ala D,ING-D-17,5,Abierto
+ING-D-17,ING-D-18,3,Abierto
+Pasillo Ingeniería Ala D,ING-D-18,12,Abierto
+Pasillo Ingeniería Ala D,ING-D-19,11,Abierto
+ING-D-19,ING-D-20,4,Abierto
+Pasillo Ingeniería Ala D,ING-D-20,20,Abierto
+Pasillo Ingeniería Ala D,ING-D-21,24,Abierto
+ING-D-21,ING-D-22,6,Abierto
+Pasillo Ingeniería Ala D,ING-D-22,20,Abierto
+Pasillo Ingeniería Ala D,ING-D-23,10,Abierto
+ING-D-23,ING-D-24,6,Abierto
+Pasillo Ingeniería Ala D,ING-D-24,21,Abierto
+Pasillo Ingeniería Ala D,ING-D-25,11,Abierto
+Vestíbulo Ingeniería,Salida Este,25,Abierto
+Vestíbulo Ingeniería,Salida Sureste,35,Abierto
+Vestíbulo Ingeniería,Explanada Sur,20,Abierto
+Pasillo Humanidades Ala Norte,Vestíbulo Humanidades,15,Abierto
+Pasillo Humanidades Ala Norte,HUM-N-01,5,Abierto
+HUM-N-01,HUM-N-02,3,Abierto
+Pasillo Humanidades Ala Norte,HUM-N-02,8,Abierto
+Pasillo Humanidades Ala Norte,HUM-N-03,8,Abierto
+HUM-N-03,HUM-N-04,4,Abierto
+Pasillo Humanidades Ala Norte,HUM-N-04,17,Abierto
+Pasillo Humanidades Ala Norte,HUM-N-05,8,Abierto
+HUM-N-05,HUM-N-06,6,Abierto
+Pasillo Humanidades Ala Norte,HUM-N-06,24,Abierto
+Pasillo Humanidades Ala Norte,HUM-N-07,16,Abierto
+HUM-N-07,HUM-N-08,3,Abierto
+Pasillo Humanidades Ala Norte,HUM-N-08,18,Abierto
+Pasillo Humanidades Ala Norte,HUM-N-09,12,Abierto
+HUM-N-09,HUM-N-10,5,Abierto
+Pasillo Humanidades Ala Norte,HUM-N-10,14,Abierto
+Pasillo Humanidades Ala Norte,HUM-N-11,5,Abierto
+HUM-N-11,HUM-N-12,3,Abierto
+Pasillo Humanidades Ala Norte,HUM-N-12,7,Abierto
+Pasillo Humanidades Ala Norte,HUM-N-13,15,Abierto
+HUM-N-13,HUM-N-14,4,Abierto
+Pasillo Humanidades Ala Norte,HUM-N-14,19,Abierto
+Pasillo Humanidades Ala Norte,HUM-N-15,25,Abierto
+HUM-N-15,HUM-N-16,6,Abierto
+Pasillo Humanidades Ala Norte,HUM-N-16,8,Abierto
+Pasillo Humanidades Ala Norte,HUM-N-17,25,Abierto
+HUM-N-17,HUM-N-18,3,Abierto
+Pasillo Humanidades Ala Norte,HUM-N-18,11,Abierto
+Pasillo Humanidades Ala Norte,HUM-N-19,22,Abierto
+HUM-N-19,HUM-N-20,6,Abierto
+Pasillo Humanidades Ala Norte,HUM-N-20,15,Abierto
+Pasillo Humanidades Ala Sur,Vestíbulo Humanidades,19,Abierto
+Pasillo Humanidades Ala Norte,Pasillo Humanidades Ala Sur,15,Abierto
+Pasillo Humanidades Ala Sur,HUM-S-01,10,Abierto
+HUM-S-01,HUM-S-02,3,Abierto
+Pasillo Humanidades Ala Sur,HUM-S-02,7,Abierto
+Pasillo Humanidades Ala Sur,HUM-S-03,16,Abierto
+HUM-S-03,HUM-S-04,4,Abierto
+Pasillo Humanidades Ala Sur,HUM-S-04,9,Abierto
+Pasillo Humanidades Ala Sur,HUM-S-05,19,Abierto
+HUM-S-05,HUM-S-06,6,Abierto
+Pasillo Humanidades Ala Sur,HUM-S-06,8,Abierto
+Pasillo Humanidades Ala Sur,HUM-S-07,22,Abierto
+HUM-S-07,HUM-S-08,6,Abierto
+Pasillo Humanidades Ala Sur,HUM-S-08,9,Abierto
+Pasillo Humanidades Ala Sur,HUM-S-09,7,Abierto
+HUM-S-09,HUM-S-10,3,Abierto
+Pasillo Humanidades Ala Sur,HUM-S-10,19,Abierto
+Pasillo Humanidades Ala Sur,HUM-S-11,18,Abierto
+HUM-S-11,HUM-S-12,3,Abierto
+Pasillo Humanidades Ala Sur,HUM-S-12,19,Abierto
+Pasillo Humanidades Ala Sur,HUM-S-13,20,Abierto
+HUM-S-13,HUM-S-14,3,Abierto
+Pasillo Humanidades Ala Sur,HUM-S-14,19,Abierto
+Pasillo Humanidades Ala Sur,HUM-S-15,20,Abierto
+HUM-S-15,HUM-S-16,5,Abierto
+Pasillo Humanidades Ala Sur,HUM-S-16,8,Abierto
+Pasillo Humanidades Ala Sur,HUM-S-17,6,Abierto
+HUM-S-17,HUM-S-18,6,Abierto
+Pasillo Humanidades Ala Sur,HUM-S-18,10,Abierto
+Pasillo Humanidades Ala Sur,HUM-S-19,18,Abierto
+HUM-S-19,HUM-S-20,3,Abierto
+Pasillo Humanidades Ala Sur,HUM-S-20,13,Abierto
+Pasillo Humanidades Ala Este,Vestíbulo Humanidades,18,Abierto
+Pasillo Humanidades Ala Sur,Pasillo Humanidades Ala Este,15,Abierto
+Pasillo Humanidades Ala Este,HUM-E-01,21,Abierto
+HUM-E-01,HUM-E-02,4,Abierto
+Pasillo Humanidades Ala Este,HUM-E-02,18,Abierto
+Pasillo Humanidades Ala Este,HUM-E-03,8,Abierto
+HUM-E-03,HUM-E-04,5,Abierto
+Pasillo Humanidades Ala Este,HUM-E-04,10,Abierto
+Pasillo Humanidades Ala Este,HUM-E-05,5,Abierto
+HUM-E-05,HUM-E-06,4,Abierto
+Pasillo Humanidades Ala Este,HUM-E-06,24,Abierto
+Pasillo Humanidades Ala Este,HUM-E-07,24,Abierto
+HUM-E-07,HUM-E-08,5,Abierto
+Pasillo Humanidades Ala Este,HUM-E-08,13,Abierto
+Pasillo Humanidades Ala Este,HUM-E-09,18,Abierto
+HUM-E-09,HUM-E-10,3,Abierto
+Pasillo Humanidades Ala Este,HUM-E-10,12,Abierto
+Pasillo Humanidades Ala Este,HUM-E-11,16,Abierto
+HUM-E-11,HUM-E-12,3,Abierto
+Pasillo Humanidades Ala Este,HUM-E-12,18,Abierto
+Pasillo Humanidades Ala Este,HUM-E-13,25,Abierto
+HUM-E-13,HUM-E-14,3,Abierto
+Pasillo Humanidades Ala Este,HUM-E-14,23,Abierto
+Pasillo Humanidades Ala Este,HUM-E-15,24,Abierto
+HUM-E-15,HUM-E-16,5,Abierto
+Pasillo Humanidades Ala Este,HUM-E-16,15,Abierto
+Pasillo Humanidades Ala Este,HUM-E-17,18,Abierto
+HUM-E-17,HUM-E-18,5,Abierto
+Pasillo Humanidades Ala Este,HUM-E-18,12,Abierto
+Pasillo Humanidades Ala Este,HUM-E-19,24,Abierto
+HUM-E-19,HUM-E-20,4,Abierto
+Pasillo Humanidades Ala Este,HUM-E-20,21,Abierto
+Pasillo Humanidades Ala Oeste,Vestíbulo Humanidades,16,Abierto
+Pasillo Humanidades Ala Este,Pasillo Humanidades Ala Oeste,15,Abierto
+Pasillo Humanidades Ala Oeste,HUM-O-01,13,Abierto
+HUM-O-01,HUM-O-02,3,Abierto
+Pasillo Humanidades Ala Oeste,HUM-O-02,22,Abierto
+Pasillo Humanidades Ala Oeste,HUM-O-03,24,Abierto
+HUM-O-03,HUM-O-04,5,Abierto
+Pasillo Humanidades Ala Oeste,HUM-O-04,21,Abierto
+Pasillo Humanidades Ala Oeste,HUM-O-05,19,Abierto
+HUM-O-05,HUM-O-06,5,Abierto
+Pasillo Humanidades Ala Oeste,HUM-O-06,18,Abierto
+Pasillo Humanidades Ala Oeste,HUM-O-07,13,Abierto
+HUM-O-07,HUM-O-08,4,Abierto
+Pasillo Humanidades Ala Oeste,HUM-O-08,23,Abierto
+Pasillo Humanidades Ala Oeste,HUM-O-09,19,Abierto
+HUM-O-09,HUM-O-10,4,Abierto
+Pasillo Humanidades Ala Oeste,HUM-O-10,16,Abierto
+Pasillo Humanidades Ala Oeste,HUM-O-11,21,Abierto
+HUM-O-11,HUM-O-12,5,Abierto
+Pasillo Humanidades Ala Oeste,HUM-O-12,13,Abierto
+Pasillo Humanidades Ala Oeste,HUM-O-13,14,Abierto
+HUM-O-13,HUM-O-14,3,Abierto
+Pasillo Humanidades Ala Oeste,HUM-O-14,24,Abierto
+Pasillo Humanidades Ala Oeste,HUM-O-15,12,Abierto
+HUM-O-15,HUM-O-16,3,Abierto
+Pasillo Humanidades Ala Oeste,HUM-O-16,11,Abierto
+Pasillo Humanidades Ala Oeste,HUM-O-17,24,Abierto
+HUM-O-17,HUM-O-18,5,Abierto
+Pasillo Humanidades Ala Oeste,HUM-O-18,15,Abierto
+Pasillo Humanidades Ala Oeste,HUM-O-19,25,Abierto
+HUM-O-19,HUM-O-20,3,Abierto
+Pasillo Humanidades Ala Oeste,HUM-O-20,15,Abierto
+Vestíbulo Humanidades,Salida Oeste,30,Abierto
+Vestíbulo Humanidades,Salida Suroeste,35,Abierto
+Vestíbulo Humanidades,Explanada Norte,20,Abierto
+Pasillo Administración Ala Central,Vestíbulo Administración,16,Abierto
+Pasillo Administración Ala Central,ADM-C-01,25,Abierto
+ADM-C-01,ADM-C-02,6,Abierto
+Pasillo Administración Ala Central,ADM-C-02,24,Abierto
+Pasillo Administración Ala Central,ADM-C-03,19,Abierto
+ADM-C-03,ADM-C-04,6,Abierto
+Pasillo Administración Ala Central,ADM-C-04,8,Abierto
+Pasillo Administración Ala Central,ADM-C-05,16,Abierto
+ADM-C-05,ADM-C-06,6,Abierto
+Pasillo Administración Ala Central,ADM-C-06,19,Abierto
+Pasillo Administración Ala Central,ADM-C-07,23,Abierto
+ADM-C-07,ADM-C-08,5,Abierto
+Pasillo Administración Ala Central,ADM-C-08,23,Abierto
+Pasillo Administración Ala Central,ADM-C-09,17,Abierto
+ADM-C-09,ADM-C-10,5,Abierto
+Pasillo Administración Ala Central,ADM-C-10,5,Abierto
+Pasillo Administración Ala Central,ADM-C-11,16,Abierto
+ADM-C-11,ADM-C-12,6,Abierto
+Pasillo Administración Ala Central,ADM-C-12,16,Abierto
+Pasillo Administración Ala Central,ADM-C-13,13,Abierto
+ADM-C-13,ADM-C-14,6,Abierto
+Pasillo Administración Ala Central,ADM-C-14,5,Abierto
+Pasillo Administración Ala Central,ADM-C-15,16,Abierto
+ADM-C-15,ADM-C-16,6,Abierto
+Pasillo Administración Ala Central,ADM-C-16,19,Abierto
+Pasillo Administración Ala Central,ADM-C-17,6,Abierto
+ADM-C-17,ADM-C-18,3,Abierto
+Pasillo Administración Ala Central,ADM-C-18,14,Abierto
+Pasillo Administración Ala Central,ADM-C-19,22,Abierto
+ADM-C-19,ADM-C-20,3,Abierto
+Pasillo Administración Ala Central,ADM-C-20,8,Abierto
+Pasillo Administración Ala Alta,Vestíbulo Administración,15,Abierto
+Pasillo Administración Ala Central,Pasillo Administración Ala Alta,15,Abierto
+Pasillo Administración Ala Alta,ADM-A-01,18,Abierto
+ADM-A-01,ADM-A-02,5,Abierto
+Pasillo Administración Ala Alta,ADM-A-02,17,Abierto
+Pasillo Administración Ala Alta,ADM-A-03,14,Abierto
+ADM-A-03,ADM-A-04,5,Abierto
+Pasillo Administración Ala Alta,ADM-A-04,5,Abierto
+Pasillo Administración Ala Alta,ADM-A-05,11,Abierto
+ADM-A-05,ADM-A-06,4,Abierto
+Pasillo Administración Ala Alta,ADM-A-06,6,Abierto
+Pasillo Administración Ala Alta,ADM-A-07,7,Abierto
+ADM-A-07,ADM-A-08,4,Abierto
+Pasillo Administración Ala Alta,ADM-A-08,10,Abierto
+Pasillo Administración Ala Alta,ADM-A-09,6,Abierto
+ADM-A-09,ADM-A-10,5,Abierto
+Pasillo Administración Ala Alta,ADM-A-10,24,Abierto
+Pasillo Administración Ala Alta,ADM-A-11,22,Abierto
+ADM-A-11,ADM-A-12,6,Abierto
+Pasillo Administración Ala Alta,ADM-A-12,8,Abierto
+Pasillo Administración Ala Alta,ADM-A-13,24,Abierto
+ADM-A-13,ADM-A-14,3,Abierto
+Pasillo Administración Ala Alta,ADM-A-14,14,Abierto
+Pasillo Administración Ala Alta,ADM-A-15,9,Abierto
+ADM-A-15,ADM-A-16,3,Abierto
+Pasillo Administración Ala Alta,ADM-A-16,18,Abierto
+Pasillo Administración Ala Alta,ADM-A-17,12,Abierto
+ADM-A-17,ADM-A-18,3,Abierto
+Pasillo Administración Ala Alta,ADM-A-18,7,Abierto
+Pasillo Administración Ala Alta,ADM-A-19,8,Abierto
+ADM-A-19,ADM-A-20,3,Abierto
+Pasillo Administración Ala Alta,ADM-A-20,23,Abierto
+Pasillo Administración Ala Baja,Vestíbulo Administración,16,Abierto
+Pasillo Administración Ala Alta,Pasillo Administración Ala Baja,15,Abierto
+Pasillo Administración Ala Baja,ADM-B-01,6,Abierto
+ADM-B-01,ADM-B-02,4,Abierto
+Pasillo Administración Ala Baja,ADM-B-02,19,Abierto
+Pasillo Administración Ala Baja,ADM-B-03,22,Abierto
+ADM-B-03,ADM-B-04,3,Abierto
+Pasillo Administración Ala Baja,ADM-B-04,14,Abierto
+Pasillo Administración Ala Baja,ADM-B-05,18,Abierto
+ADM-B-05,ADM-B-06,5,Abierto
+Pasillo Administración Ala Baja,ADM-B-06,22,Abierto
+Pasillo Administración Ala Baja,ADM-B-07,19,Abierto
+ADM-B-07,ADM-B-08,4,Abierto
+Pasillo Administración Ala Baja,ADM-B-08,6,Abierto
+Pasillo Administración Ala Baja,ADM-B-09,18,Abierto
+ADM-B-09,ADM-B-10,5,Abierto
+Pasillo Administración Ala Baja,ADM-B-10,9,Abierto
+Pasillo Administración Ala Baja,ADM-B-11,13,Abierto
+ADM-B-11,ADM-B-12,4,Abierto
+Pasillo Administración Ala Baja,ADM-B-12,24,Abierto
+Pasillo Administración Ala Baja,ADM-B-13,17,Abierto
+ADM-B-13,ADM-B-14,3,Abierto
+Pasillo Administración Ala Baja,ADM-B-14,7,Abierto
+Pasillo Administración Ala Baja,ADM-B-15,19,Abierto
+ADM-B-15,ADM-B-16,6,Abierto
+Pasillo Administración Ala Baja,ADM-B-16,20,Abierto
+Pasillo Administración Ala Baja,ADM-B-17,19,Abierto
+ADM-B-17,ADM-B-18,4,Abierto
+Pasillo Administración Ala Baja,ADM-B-18,5,Abierto
+Pasillo Administración Ala Baja,ADM-B-19,14,Abierto
+ADM-B-19,ADM-B-20,3,Abierto
+Pasillo Administración Ala Baja,ADM-B-20,9,Abierto
+Vestíbulo Administración,Salida Principal,20,Abierto
+Vestíbulo Administración,Salida Norte,45,Abierto
+Vestíbulo Administración,Explanada Norte,15,Abierto
+Pasillo Servicios Ala Biblioteca,Vestíbulo Servicios,16,Abierto
+Pasillo Servicios Ala Biblioteca,SER-B-01,11,Abierto
+SER-B-01,SER-B-02,5,Abierto
+Pasillo Servicios Ala Biblioteca,SER-B-02,19,Abierto
+Pasillo Servicios Ala Biblioteca,SER-B-03,21,Abierto
+SER-B-03,SER-B-04,4,Abierto
+Pasillo Servicios Ala Biblioteca,SER-B-04,11,Abierto
+Pasillo Servicios Ala Biblioteca,SER-B-05,15,Abierto
+SER-B-05,SER-B-06,4,Abierto
+Pasillo Servicios Ala Biblioteca,SER-B-06,14,Abierto
+Pasillo Servicios Ala Biblioteca,SER-B-07,5,Abierto
+SER-B-07,SER-B-08,3,Abierto
+Pasillo Servicios Ala Biblioteca,SER-B-08,11,Abierto
+Pasillo Servicios Ala Biblioteca,SER-B-09,19,Abierto
+SER-B-09,SER-B-10,6,Abierto
+Pasillo Servicios Ala Biblioteca,SER-B-10,7,Abierto
+Pasillo Servicios Ala Biblioteca,SER-B-11,16,Abierto
+SER-B-11,SER-B-12,6,Abierto
+Pasillo Servicios Ala Biblioteca,SER-B-12,7,Abierto
+Pasillo Servicios Ala Biblioteca,SER-B-13,5,Abierto
+SER-B-13,SER-B-14,5,Abierto
+Pasillo Servicios Ala Biblioteca,SER-B-14,23,Abierto
+Pasillo Servicios Ala Biblioteca,SER-B-15,7,Abierto
+SER-B-15,SER-B-16,5,Abierto
+Pasillo Servicios Ala Biblioteca,SER-B-16,22,Abierto
+Pasillo Servicios Ala Biblioteca,SER-B-17,12,Abierto
+SER-B-17,SER-B-18,4,Abierto
+Pasillo Servicios Ala Biblioteca,SER-B-18,15,Abierto
+Pasillo Servicios Ala Biblioteca,SER-B-19,13,Abierto
+SER-B-19,SER-B-20,3,Abierto
+Pasillo Servicios Ala Biblioteca,SER-B-20,14,Abierto
+Pasillo Servicios Ala Comedor,Vestíbulo Servicios,18,Abierto
+Pasillo Servicios Ala Biblioteca,Pasillo Servicios Ala Comedor,15,Abierto
+Pasillo Servicios Ala Comedor,SER-C-01,22,Abierto
+SER-C-01,SER-C-02,3,Abierto
+Pasillo Servicios Ala Comedor,SER-C-02,22,Abierto
+Pasillo Servicios Ala Comedor,SER-C-03,7,Abierto
+SER-C-03,SER-C-04,4,Abierto
+Pasillo Servicios Ala Comedor,SER-C-04,19,Abierto
+Pasillo Servicios Ala Comedor,SER-C-05,22,Abierto
+SER-C-05,SER-C-06,5,Abierto
+Pasillo Servicios Ala Comedor,SER-C-06,9,Abierto
+Pasillo Servicios Ala Comedor,SER-C-07,10,Abierto
+SER-C-07,SER-C-08,4,Abierto
+Pasillo Servicios Ala Comedor,SER-C-08,11,Abierto
+Pasillo Servicios Ala Comedor,SER-C-09,22,Abierto
+SER-C-09,SER-C-10,5,Abierto
+Pasillo Servicios Ala Comedor,SER-C-10,8,Abierto
+Pasillo Servicios Ala Comedor,SER-C-11,17,Abierto
+SER-C-11,SER-C-12,5,Abierto
+Pasillo Servicios Ala Comedor,SER-C-12,23,Abierto
+Pasillo Servicios Ala Comedor,SER-C-13,25,Abierto
+SER-C-13,SER-C-14,6,Abierto
+Pasillo Servicios Ala Comedor,SER-C-14,16,Abierto
+Pasillo Servicios Ala Comedor,SER-C-15,11,Abierto
+SER-C-15,SER-C-16,4,Abierto
+Pasillo Servicios Ala Comedor,SER-C-16,10,Abierto
+Pasillo Servicios Ala Comedor,SER-C-17,16,Abierto
+SER-C-17,SER-C-18,6,Abierto
+Pasillo Servicios Ala Comedor,SER-C-18,7,Abierto
+Pasillo Servicios Ala Comedor,SER-C-19,25,Abierto
+SER-C-19,SER-C-20,4,Abierto
+Pasillo Servicios Ala Comedor,SER-C-20,24,Abierto
+Pasillo Servicios Ala Deportes,Vestíbulo Servicios,14,Abierto
+Pasillo Servicios Ala Comedor,Pasillo Servicios Ala Deportes,15,Abierto
+Pasillo Servicios Ala Deportes,SER-D-01,22,Abierto
+SER-D-01,SER-D-02,3,Abierto
+Pasillo Servicios Ala Deportes,SER-D-02,22,Abierto
+Pasillo Servicios Ala Deportes,SER-D-03,16,Abierto
+SER-D-03,SER-D-04,4,Abierto
+Pasillo Servicios Ala Deportes,SER-D-04,13,Abierto
+Pasillo Servicios Ala Deportes,SER-D-05,20,Abierto
+SER-D-05,SER-D-06,3,Abierto
+Pasillo Servicios Ala Deportes,SER-D-06,14,Abierto
+Pasillo Servicios Ala Deportes,SER-D-07,9,Abierto
+SER-D-07,SER-D-08,5,Abierto
+Pasillo Servicios Ala Deportes,SER-D-08,19,Abierto
+Pasillo Servicios Ala Deportes,SER-D-09,17,Abierto
+SER-D-09,SER-D-10,3,Abierto
+Pasillo Servicios Ala Deportes,SER-D-10,11,Abierto
+Pasillo Servicios Ala Deportes,SER-D-11,14,Abierto
+SER-D-11,SER-D-12,3,Abierto
+Pasillo Servicios Ala Deportes,SER-D-12,13,Abierto
+Pasillo Servicios Ala Deportes,SER-D-13,18,Abierto
+SER-D-13,SER-D-14,3,Abierto
+Pasillo Servicios Ala Deportes,SER-D-14,20,Abierto
+Pasillo Servicios Ala Deportes,SER-D-15,15,Abierto
+SER-D-15,SER-D-16,5,Abierto
+Pasillo Servicios Ala Deportes,SER-D-16,14,Abierto
+Pasillo Servicios Ala Deportes,SER-D-17,9,Abierto
+SER-D-17,SER-D-18,3,Abierto
+Pasillo Servicios Ala Deportes,SER-D-18,7,Abierto
+Pasillo Servicios Ala Deportes,SER-D-19,14,Abierto
+SER-D-19,SER-D-20,6,Abierto
+Pasillo Servicios Ala Deportes,SER-D-20,7,Abierto
+Vestíbulo Servicios,Salida Sur,25,Abierto
+Vestíbulo Servicios,Salida Sureste,40,Abierto
+Vestíbulo Servicios,Explanada Sur,20,Abierto
+Explanada Norte,Explanada Sur,30,Bloqueado
+Vestíbulo Humanidades,Explanada Sur,35,Abierto
