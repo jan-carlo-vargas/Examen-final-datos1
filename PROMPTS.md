@@ -1,6 +1,6 @@
 # Registro de prompts
 
-- Integrantes: Fran, @franramidel
+- Integrantes: Francisco Ramirez Delgado (@franramidel) y Jan Carlo Vargas Araya (@jan-carlo-vargas)
 - Herramienta(s) de IA utilizada(s): Sonnet 5.5
 
 ## Prompt 1
